@@ -266,6 +266,16 @@ sequenceDiagram
     Alice->John: Yes... John, how are you?
 {% end %}
 
+
+{% mermaid() %}
+flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+{% end %}
+
 ## Comment (Giscus)
 
 As you can see in this post.
