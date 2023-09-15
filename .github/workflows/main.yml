@@ -16,7 +16,7 @@ jobs:
         uses: oven-sh/setup-bun@v1
       - run: bun install
         working-directory: ./themes/tranquil
-      - run: bun x tailwindcss -i styles/styles.css -o static/styles/styles.css --minify
+      - run: bun x tailwindcss -i styles/styles.css -i ../../styles/styles.css -o static/styles/styles.css --minify
         working-directory: ./themes/tranquil
       - run: bun run partytown
         working-directory: ./themes/tranquil
