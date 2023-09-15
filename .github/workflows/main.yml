@@ -14,7 +14,11 @@ jobs:
 
       - name: Prebuild
         uses: oven-sh/setup-bun@v1
-      - run: bun install && bun run tw && bun run partytown
+      - run: bun install
+        working-directory: ./themes/tranquil
+      - run: npx tailwindcss -i styles/styles.css -o static/styles/styles.css --minify
+        working-directory: ./themes/tranquil
+      - run: bun run partytown
         working-directory: ./themes/tranquil
       - name: Build and deploy
         uses: shalzz/zola-deploy-action@v0.17.2
