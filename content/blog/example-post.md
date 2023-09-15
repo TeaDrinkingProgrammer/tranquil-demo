@@ -42,7 +42,7 @@ Lorem ipsum dolor sit, amet [consectetur adipisicing elit](https://example.com).
 
 Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!
 
-{{ figure(src="/assets/typical-app.webp" alt="img", via="https://github.com/tyrchen/rust-training") }}
+{{ figure(src="./assets/typical-app.webp" alt="img", via="https://github.com/tyrchen/rust-training") }}
 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!
 
