@@ -18,8 +18,6 @@ jobs:
         working-directory: ./themes/tranquil
       - run: bun x tailwindcss -i styles/styles.css -o static/styles/styles.css --minify
         working-directory: ./themes/tranquil
-      - run: bun run partytown
-        working-directory: ./themes/tranquil
       - name: Build and deploy
         uses: shalzz/zola-deploy-action@v0.17.2
         env:
