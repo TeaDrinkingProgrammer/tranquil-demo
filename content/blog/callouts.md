@@ -4,7 +4,7 @@ date = 2023-05-07
 discription = "Example post showing callouts"
 [taxonomies]
 categories = ["Tech"]
-tags = ["serene", "callout"]
+tags = ["tranquil", "callout"]
 [extra]
 toc = false
 +++

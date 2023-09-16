@@ -1,5 +1,5 @@
 +++
-title = "serene::projects"
-description = "The demo projects page for zola theme serene."
+title = "tranquil::projects"
+description = "The demo projects page for zola theme Tranquil."
 template = "projects.html"
 +++

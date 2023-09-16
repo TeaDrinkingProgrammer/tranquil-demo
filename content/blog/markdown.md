@@ -4,7 +4,7 @@ date = 2023-07-15
 updated = 2023-08-30
 [taxonomies]
 categories = ["Tech"]
-tags = ["serene", "markdown"]
+tags = ["tranquil", "markdown"]
 [extra]
 lang = "en"
 toc = true
