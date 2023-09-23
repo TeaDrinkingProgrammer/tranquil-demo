@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <title>tranquil &gt; blog</title>
+  <meta name="description" content="">
+  <link rel="icon" type="image/png" sizes="32x32" href="https:&#x2F;&#x2F;teadrinkingprogrammer.github.io&#x2F;tranquil-demo/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https:&#x2F;&#x2F;teadrinkingprogrammer.github.io&#x2F;tranquil-demo/img/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https:&#x2F;&#x2F;teadrinkingprogrammer.github.io&#x2F;tranquil-demo/img/apple-touch-icon.png">
+  <link href="https:&#x2F;&#x2F;teadrinkingprogrammer.github.io&#x2F;tranquil-demo/styles/styles.css" rel="stylesheet">
+  <script>
+  if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    document.documentElement.classList.add('dark')
+    localStorage.setItem("theme", "dark")
+  } else {
+    document.documentElement.classList.remove('dark')
+    localStorage.setItem("theme", "light")
+  }
+  
+  </script>
+  
+  
+</head>
+
+<body class="antialiased text-slate-700 dark:text-slate-300 bg-white dark:bg-stone-900">
+  
+<header>
+  <div class="bg-stone-300 dark:bg-stone-700 py-2">
+    <div class="flex flex-row justify-between max-w-prose m-auto px-5">
+      <nav>
+        
+        <a class="text-xl" href="https:&#x2F;&#x2F;teadrinkingprogrammer.github.io&#x2F;tranquil-demo">tranquil</a>
+        
+        
+        <span class="text-xl">&gt;</span>
+        
+        <a class="text-xl" href="https:&#x2F;&#x2F;teadrinkingprogrammer.github.io&#x2F;tranquil-demo&#x2F;blog&#x2F;">blog</a>
+        
+      </nav>
+      <div class="flex flex-row gap-3">
+        
+        
+        <a href="https:&#x2F;&#x2F;teadrinkingprogrammer.github.io&#x2F;tranquil-demo/blog/feed.xml" aria-label="rss feed"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12.75 19.5v-.75a7.5 7.5 0 00-7.5-7.5H4.5m0-6.75h.75c7.87 0 14.25 6.38 14.25 14.25v.75M6 18.75a.75.75 0 11-1.5 0 .75.75 0 011.5 0z" />
+</svg></a>
+        
+        
+
+        
+        
+        <button id="theme-toggle" aria-label="theme switch" data-moon-icon="&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;"
+          data-sun-icon="&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z" />
+</svg>
+        </button>
+      </div>
+    </div>
+  </div>
+</header>
+<div id="tag-single-wrapper">
+  <main>
+    <div class="title">
+      <span># theme</span>
+      <a href="https://teadrinkingprogrammer.github.io/tranquil-demo/tags">All Tags</a>
+    </div>
+    <div class="post-list">
+      
+      <a class="post" href="https:&#x2F;&#x2F;teadrinkingprogrammer.github.io&#x2F;tranquil-demo&#x2F;blog&#x2F;example-post&#x2F;">
+        <span>Example Post</span>
+        <span class="date">2023-08-30</span>
+      </a>
+      
+    </div>
+  </main>
+  <footer class="text-stone-400 dark:text-stone-400 flex flex-row justify-between my-16">
+  
+  <div class="flex justify-between">
+    
+    <p>© 2023 Tranquil </p>
+ 
+  </div>
+  
+  
+  <div class="">
+    powered by
+    <a class="text-stone-500 dark:text-stone-300 underline underline-offset-4 decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400" href="https://www.getzola.org" target="_blank" rel='noreferrer noopener'>zola</a>
+    and
+    <a class="text-stone-500 dark:text-stone-300 underline underline-offset-4 decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400" href="https://github.com/TeaDrinkingProgrammer/tranquil" target="_blank" rel='noreferrer noopener'>tranquil</a>
+  </div>
+  
+</footer>
+</div>
+
+  
+  <script src="https:&#x2F;&#x2F;teadrinkingprogrammer.github.io&#x2F;tranquil-demo/js/main.js"></script>
+</body>
+
+</html>

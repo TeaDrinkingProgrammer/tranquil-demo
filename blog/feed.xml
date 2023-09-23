@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>tranquil &gt; blog</title>
+	<subtitle>The demo blog page for zola theme Tranquil.</subtitle>
+	<link href="https://teadrinkingprogrammer.github.io/tranquil-demo/blog/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://teadrinkingprogrammer.github.io/tranquil-demo/blog/"/>
+	<updated>2023-08-30T00:00:00+00:00</updated>
+	<id>https://teadrinkingprogrammer.github.io/tranquil-demo/blog/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Example Post</title>
+		<published>2023-08-30T00:00:00+00:00</published>
+		<updated>2023-08-30T00:00:00+00:00</updated>
+		<link href="https://teadrinkingprogrammer.github.io/tranquil-demo/blog/example-post/" type="text/html"/>
+		<id>https://teadrinkingprogrammer.github.io/tranquil-demo/blog/example-post/</id>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lorem&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#lorem&quot; 
+    aria-label=&quot;Anchor link for: lorem&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Lorem&lt;&#x2F;h2&gt;
+&lt;p&gt;Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! &lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit, &lt;strong&gt;amet consectetur adipisicing elit&lt;&#x2F;strong&gt;. Atque &lt;code&gt;libero&lt;&#x2F;code&gt; expedita laudantium &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;example.com&quot;&gt;cupiditate&lt;&#x2F;a&gt;, sit explicabo sequi ipsa! Praesentium, &lt;em&gt;nisi saepe dolor unde iusto dolore nam&lt;&#x2F;em&gt;, vero optio &lt;code&gt;consequuntur&lt;&#x2F;code&gt; repudiandae et! Atque libero &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;example.com&quot;&gt;expedita laudantium cupiditate&lt;&#x2F;a&gt;, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-slate-500 dark:outline-slate-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero
+optioconsequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. &lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;example.com&quot;&gt;consectetur adipisicing elit&lt;&#x2F;a&gt;. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;praesentium&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#praesentium&quot; 
+    aria-label=&quot;Anchor link for: praesentium&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Praesentium&lt;&#x2F;h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;example.com&quot;&gt;consectetur adipisicing elit&lt;&#x2F;a&gt;. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. &lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;teadrinkingprogrammer.github.io&amp;#x2F;tranquil-demo&#x2F;assets&amp;#x2F;typical-app.webp&quot;  alt=&quot;img&quot;&gt;
+    
+    &lt;figcaption class=&quot;flex justify-center italic&quot;&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;tyrchen&amp;#x2F;rust-training&quot;&gt;via&lt;&#x2F;a&gt;&lt;&#x2F;figcaption&gt;
+    
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;atque&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#atque&quot; 
+    aria-label=&quot;Anchor link for: atque&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Atque&lt;&#x2F;h2&gt;
+&lt;p&gt;Lorem ipsum:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!  Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa! sit explicabo sequi ipsa!  Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Praesentium, nisi saepe dolor unde iusto dolore nam&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Praesentium, nisi saepe dolor unde iusto dolore nam&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!  Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;laudantium&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#laudantium&quot; 
+    aria-label=&quot;Anchor link for: laudantium&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Laudantium&lt;&#x2F;h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, &lt;code&gt;nisi&lt;&#x2F;code&gt; saepe dolor unde iusto dolore nam, vero optio &lt;code&gt;consequuntur&lt;&#x2F;code&gt; repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!  Atque libero &lt;code&gt;expedita laudantium cupiditate&lt;&#x2F;code&gt;, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;rs&quot; class=&quot;language-rs z-code&quot;&gt;&lt;code class=&quot;language-rs&quot; data-lang=&quot;rs&quot;&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-storage z-type z-function z-rust&quot;&gt;fn&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-entity z-name z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-parameter z-rust&quot;&gt;x&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;:&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt; &lt;span class=&quot;z-meta z-function z-return-type z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;-&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+    &lt;span class=&quot;z-keyword z-control z-rust&quot;&gt;match&lt;&#x2F;span&gt; x &lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i &lt;span class=&quot;z-keyword z-operator z-arithmetic z-rust&quot;&gt;+&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;1&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+    &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; five &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; six &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;five&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; none &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!  Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;cupiditate&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#cupiditate&quot; 
+    aria-label=&quot;Anchor link for: cupiditate&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Cupiditate&lt;&#x2F;h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!  Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Markdown &amp; Extended</title>
+		<published>2023-07-15T00:00:00+00:00</published>
+		<updated>2023-08-30T00:00:00+00:00</updated>
+        <summary>&lt;p&gt;This is a post showing all supported elements.&lt;&#x2F;p&gt;
+</summary>
+		<link href="https://teadrinkingprogrammer.github.io/tranquil-demo/blog/markdown/" type="text/html"/>
+		<id>https://teadrinkingprogrammer.github.io/tranquil-demo/blog/markdown/</id>
+		<content type="html">&lt;p&gt;This is a post showing all supported elements.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;heading&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#heading&quot; 
+    aria-label=&quot;Anchor link for: heading&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Heading&lt;&#x2F;h2&gt;
+&lt;p&gt;As you can see in this post.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;paragraph&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#paragraph&quot; 
+    aria-label=&quot;Anchor link for: paragraph&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Paragraph&lt;&#x2F;h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa! &lt;&#x2F;p&gt;
+&lt;p&gt;Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa! &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;emphasis&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#emphasis&quot; 
+    aria-label=&quot;Anchor link for: emphasis&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Emphasis&lt;&#x2F;h2&gt;
+&lt;p&gt;normal text, &lt;strong&gt;bold text&lt;&#x2F;strong&gt;, &lt;em&gt;ltalic text&lt;&#x2F;em&gt;, &lt;em&gt;&lt;strong&gt;bold and ltalic text&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;blockquotes&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#blockquotes&quot; 
+    aria-label=&quot;Anchor link for: blockquotes&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Blockquotes&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa! &lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. &lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa! &lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;list&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#list&quot; 
+    aria-label=&quot;Anchor link for: list&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+List&lt;&#x2F;h2&gt;
+&lt;p&gt;unordered:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;First item&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Second item&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Third item&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;ordered:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;First item&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Indented item&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Indented item&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Second item&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Third item&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;link&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#link&quot; 
+    aria-label=&quot;Anchor link for: link&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Link&lt;&#x2F;h2&gt;
+&lt;p&gt;There is a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;example.com&quot;&gt;link&lt;&#x2F;a&gt; and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;example.com&quot;&gt;another link to example.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;table&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#table&quot; 
+    aria-label=&quot;Anchor link for: table&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Table&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Syntax&lt;&#x2F;th&gt;&lt;th&gt;Description&lt;&#x2F;th&gt;&lt;th&gt;Test Text&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Header&lt;&#x2F;td&gt;&lt;td&gt;Title&lt;&#x2F;td&gt;&lt;td&gt;Here&#x27;s this&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Paragraph&lt;&#x2F;td&gt;&lt;td&gt;Text&lt;&#x2F;td&gt;&lt;td&gt;And more&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;with alignment:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align: left&quot;&gt;Syntax&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: center&quot;&gt;Description&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: right&quot;&gt;Test Text&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: left&quot;&gt;Header&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;Title&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;Here&#x27;s this&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: left&quot;&gt;Paragraph&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;Text&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;And more&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;footnote&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#footnote&quot; 
+    aria-label=&quot;Anchor link for: footnote&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Footnote&lt;&#x2F;h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; words consectetur&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; adipisicing elit.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;strikethrough&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#strikethrough&quot; 
+    aria-label=&quot;Anchor link for: strikethrough&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Strikethrough&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;del&gt;The world is flat.&lt;&#x2F;del&gt; We now know that the world is round.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;horizontal-rule&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#horizontal-rule&quot; 
+    aria-label=&quot;Anchor link for: horizontal-rule&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Horizontal Rule&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;image&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#image&quot; 
+    aria-label=&quot;Anchor link for: image&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Image&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;assets&#x2F;typical-app.webp&quot; alt=&quot;img&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;with caption:&lt;&#x2F;p&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;teadrinkingprogrammer.github.io&amp;#x2F;tranquil-demo&#x2F;&amp;#x2F;assets&amp;#x2F;typical-app.webp&quot;  alt=&quot;alt text&quot;&gt;
+    
+    &lt;figcaption class=&quot;flex justify-center italic&quot;&gt;typical app arch&lt;&#x2F;figcaption&gt;
+    
+&lt;&#x2F;figure&gt;
+&lt;p&gt;with a &#x27;via&#x27; attribution:&lt;&#x2F;p&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;teadrinkingprogrammer.github.io&amp;#x2F;tranquil-demo&#x2F;&amp;#x2F;assets&amp;#x2F;typical-app.webp&quot;  alt=&quot;some alt text&quot;&gt;
+    
+    &lt;figcaption class=&quot;flex justify-center italic&quot;&gt;&lt;a href=&quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;tyrchen&amp;#x2F;rust-training&quot;&gt;via&lt;&#x2F;a&gt;&lt;&#x2F;figcaption&gt;
+    
+&lt;&#x2F;figure&gt;&lt;h2 id=&quot;code&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#code&quot; 
+    aria-label=&quot;Anchor link for: code&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Code&lt;&#x2F;h2&gt;
+&lt;p&gt;inline &lt;code&gt;code&lt;&#x2F;code&gt; and more &lt;code&gt;inline code&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;block level code:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;rs&quot; class=&quot;language-rs z-code&quot;&gt;&lt;code class=&quot;language-rs&quot; data-lang=&quot;rs&quot;&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-storage z-type z-function z-rust&quot;&gt;fn&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-entity z-name z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-parameter z-rust&quot;&gt;x&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;:&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt; &lt;span class=&quot;z-meta z-function z-return-type z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;-&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+    &lt;span class=&quot;z-keyword z-control z-rust&quot;&gt;match&lt;&#x2F;span&gt; x &lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i &lt;span class=&quot;z-keyword z-operator z-arithmetic z-rust&quot;&gt;+&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;1&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+    &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; five &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; six &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;five&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; none &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;with line number:&lt;&#x2F;p&gt;
+&lt;pre data-linenos data-lang=&quot;rs&quot; class=&quot;language-rs z-code&quot;&gt;&lt;code class=&quot;language-rs&quot; data-lang=&quot;rs&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-storage z-type z-function z-rust&quot;&gt;fn&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-entity z-name z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-parameter z-rust&quot;&gt;x&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;:&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt; &lt;span class=&quot;z-meta z-function z-return-type z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;-&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;    &lt;span class=&quot;z-keyword z-control z-rust&quot;&gt;match&lt;&#x2F;span&gt; x &lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i &lt;span class=&quot;z-keyword z-operator z-arithmetic z-rust&quot;&gt;+&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;1&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;&#x2F;td&gt;&lt;td&gt;    &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; five &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; six &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;five&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; none &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;span&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-linenos data-lang=&quot;rs&quot; class=&quot;language-rs z-code&quot;&gt;&lt;code class=&quot;language-rs&quot; data-lang=&quot;rs&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;93&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-storage z-type z-function z-rust&quot;&gt;fn&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-entity z-name z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-parameter z-rust&quot;&gt;x&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;:&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt; &lt;span class=&quot;z-meta z-function z-return-type z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;-&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;94&lt;&#x2F;td&gt;&lt;td&gt;    &lt;span class=&quot;z-keyword z-control z-rust&quot;&gt;match&lt;&#x2F;span&gt; x &lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;95&lt;&#x2F;td&gt;&lt;td&gt;        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;96&lt;&#x2F;td&gt;&lt;td&gt;        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i &lt;span class=&quot;z-keyword z-operator z-arithmetic z-rust&quot;&gt;+&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;1&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;97&lt;&#x2F;td&gt;&lt;td&gt;    &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;98&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;99&lt;&#x2F;td&gt;&lt;td&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;100&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; five &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;101&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; six &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;five&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;102&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; none &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;span&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;with line number and highlight:&lt;&#x2F;p&gt;
+&lt;pre data-linenos data-lang=&quot;rs&quot; class=&quot;language-rs z-code&quot;&gt;&lt;code class=&quot;language-rs&quot; data-lang=&quot;rs&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-storage z-type z-function z-rust&quot;&gt;fn&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-entity z-name z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-parameter z-rust&quot;&gt;x&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;:&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt; &lt;span class=&quot;z-meta z-function z-return-type z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;-&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;&lt;mark&gt;2&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;mark&gt;    &lt;span class=&quot;z-keyword z-control z-rust&quot;&gt;match&lt;&#x2F;span&gt; x &lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;&lt;mark&gt;3&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;mark&gt;        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;&lt;mark&gt;4&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;mark&gt;        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i &lt;span class=&quot;z-keyword z-operator z-arithmetic z-rust&quot;&gt;+&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;1&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;&lt;mark&gt;5&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;mark&gt;    &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; five &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;&lt;mark&gt;9&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;mark&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; six &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;five&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; none &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;span&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;with filename:&lt;&#x2F;p&gt;
+&lt;div&gt;
+  &lt;div&gt;src&amp;#x2F;main.rs&lt;&#x2F;div&gt;
+  &lt;pre data-lang=&quot;rs&quot; class=&quot;language-rs z-code&quot;&gt;&lt;code class=&quot;language-rs&quot; data-lang=&quot;rs&quot;&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-storage z-type z-function z-rust&quot;&gt;fn&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-entity z-name z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-parameter z-rust&quot;&gt;x&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;:&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt; &lt;span class=&quot;z-meta z-function z-return-type z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;-&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+    &lt;span class=&quot;z-keyword z-control z-rust&quot;&gt;match&lt;&#x2F;span&gt; x &lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i &lt;span class=&quot;z-keyword z-operator z-arithmetic z-rust&quot;&gt;+&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;1&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+    &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; five &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; six &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;five&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; none &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+  
+&lt;&#x2F;div&gt;
+&lt;p&gt;with filename, line number, highlight:&lt;&#x2F;p&gt;
+&lt;div&gt;
+  &lt;div&gt;src&amp;#x2F;main.rs&lt;&#x2F;div&gt;
+  &lt;pre data-linenos data-lang=&quot;rs&quot; class=&quot;language-rs z-code&quot;&gt;&lt;code class=&quot;language-rs&quot; data-lang=&quot;rs&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-storage z-type z-function z-rust&quot;&gt;fn&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-entity z-name z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-parameter z-rust&quot;&gt;x&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;:&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt; &lt;span class=&quot;z-meta z-function z-return-type z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;-&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-generic z-rust&quot;&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;Option&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-begin z-rust&quot;&gt;&amp;lt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;i32&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-generic z-end z-rust&quot;&gt;&amp;gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;    &lt;span class=&quot;z-keyword z-control z-rust&quot;&gt;match&lt;&#x2F;span&gt; x &lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;&lt;mark&gt;3&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;mark&gt;        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;&lt;mark&gt;4&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;mark&gt;        &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-rust&quot;&gt;=&amp;gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;i &lt;span class=&quot;z-keyword z-operator z-arithmetic z-rust&quot;&gt;+&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;1&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-rust&quot;&gt;,&lt;&#x2F;span&gt;
+&lt;&#x2F;mark&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;&#x2F;td&gt;&lt;td&gt;    &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; five &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-type z-rust&quot;&gt;Some&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-rust&quot;&gt;5&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; six &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;five&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;&#x2F;td&gt;&lt;td&gt;&lt;span class=&quot;z-storage z-type z-rust&quot;&gt;let&lt;&#x2F;span&gt; none &lt;span class=&quot;z-keyword z-operator z-assignment z-rust&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;z-support z-function z-rust&quot;&gt;plus_one&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-rust&quot;&gt;None&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;span&gt;&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+  
+&lt;&#x2F;div&gt;&lt;h2 id=&quot;callout&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#callout&quot; 
+    aria-label=&quot;Anchor link for: callout&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Callout&lt;&#x2F;h2&gt;
+&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-slate-500 dark:outline-slate-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-stone-500 dark:outline-stone-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M12 9v3.75m9-.75a9 9 0 11-18 0 9 9 0 0118 0zm-9 3.75h.008v.008H12v-.008z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-yellow-500 dark:outline-yellow-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-red-500 dark:outline-red-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M12 9v3.75m0-10.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.75c0 5.592 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.57-.598-3.75h-.152c-3.196 0-6.1-1.249-8.25-3.286zm0 13.036h.008v.008H12v-.008z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-slate-500 dark:outline-slate-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9 5.25h.008v.008H12v-.008z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-slate-500 dark:outline-slate-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M12 18v-5.25m0 0a6.01 6.01 0 001.5-.189m-1.5.189a6.01 6.01 0 01-1.5-.189m3.75 7.478a12.06 12.06 0 01-4.5 0m3.75 2.383a14.406 14.406 0 01-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 10-7.517 0c.85.493 1.509 1.333 1.509 2.316V18&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;with header:&lt;&#x2F;p&gt;
+&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-slate-500 dark:outline-slate-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;&lt;strong&gt;Note&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-red-500 dark:outline-red-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M12 9v3.75m0-10.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.75c0 5.592 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.57-.598-3.75h-.152c-3.196 0-6.1-1.249-8.25-3.286zm0 13.036h.008v.008H12v-.008z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;&lt;strong&gt;BREAKING!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;h2 id=&quot;math-katex&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#math-katex&quot; 
+    aria-label=&quot;Anchor link for: math-katex&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Math (KaTex)&lt;&#x2F;h2&gt;
+&lt;p&gt;$$
+f(x) = \int_{-\infty}^\infin \hat f(\xi) e^{2 \pi i \xi x}\ d\xi
+$$&lt;&#x2F;p&gt;
+&lt;p&gt;When $ a \ne 0 $, there are two solutions to $ (ax^2 + bx + c = 0) $ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$&lt;&#x2F;p&gt;
+&lt;p&gt;The Cauchy-Schwarz Inequality&lt;&#x2F;p&gt;
+&lt;p&gt;$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;chart-mermaid&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#chart-mermaid&quot; 
+    aria-label=&quot;Anchor link for: chart-mermaid&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Chart (Mermaid)&lt;&#x2F;h2&gt;
+&lt;div class=&quot;not-prose py-2&quot;&gt;
+  &lt;pre class=&quot;mermaid bg-white&quot;&gt;
+    sequenceDiagram
+    Alice -&amp;gt;&amp;gt; Bob: Hello Bob, how are you?
+    Bob--&amp;gt;&amp;gt;John: How about you John?
+    Bob--x Alice: I am good thanks!
+    Bob-x John: I am good thanks!
+    Note right of John: Bob thinks a long&amp;lt;br&amp;#x2F;&amp;gt;long time, so long&amp;lt;br&amp;#x2F;&amp;gt;that the text does&amp;lt;br&amp;#x2F;&amp;gt;not fit on a row.
+
+    Bob--&amp;gt;Alice: Checking with John...
+    Alice-&amp;gt;John: Yes... John, how are you?
+  &lt;&#x2F;pre&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+  &lt;pre class=&quot;mermaid bg-white&quot;&gt;
+    flowchart TD
+    A[Christmas] --&amp;gt;|Get money| B(Go shopping)
+    B --&amp;gt; C{Let me think}
+    C --&amp;gt;|One| D[Laptop]
+    C --&amp;gt;|Two| E[iPhone]
+    C --&amp;gt;|Three| F[fa:fa-car Car]
+  &lt;&#x2F;pre&gt;
+&lt;&#x2F;div&gt;&lt;h2 id=&quot;comment-giscus&quot;&gt;&lt;span class=&quot;not-prose&quot;&gt;
+    &lt;a class=&quot; text-black dark:text-white text-2xl underline underline-offset-8
+    decoration-1 hover:decoration-2 decoration-sky-500 dark:decoration-sky-400&quot; 
+    href=&quot;#comment-giscus&quot; 
+    aria-label=&quot;Anchor link for: comment-giscus&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;span&gt;
+Comment (Giscus)&lt;&#x2F;h2&gt;
+&lt;p&gt;As you can see in this post.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;First footnote.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;2&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;2&lt;&#x2F;sup&gt;
+&lt;p&gt;Here&#x27;s the second footnote.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Callouts</title>
+		<published>2023-05-07T00:00:00+00:00</published>
+		<updated>2023-05-07T00:00:00+00:00</updated>
+		<link href="https://teadrinkingprogrammer.github.io/tranquil-demo/blog/callouts/" type="text/html"/>
+		<id>https://teadrinkingprogrammer.github.io/tranquil-demo/blog/callouts/</id>
+		<content type="html">&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-slate-500 dark:outline-slate-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;&lt;strong&gt;Note&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-stone-500 dark:outline-stone-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M12 9v3.75m9-.75a9 9 0 11-18 0 9 9 0 0118 0zm-9 3.75h.008v.008H12v-.008z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;&lt;strong&gt;Important&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-yellow-500 dark:outline-yellow-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;&lt;strong&gt;Warning&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-red-500 dark:outline-red-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M12 9v3.75m0-10.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.75c0 5.592 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.57-.598-3.75h-.152c-3.196 0-6.1-1.249-8.25-3.286zm0 13.036h.008v.008H12v-.008z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;&lt;strong&gt;Alert&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-slate-500 dark:outline-slate-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9 5.25h.008v.008H12v-.008z&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;&lt;strong&gt;Question&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;&lt;div class=&quot;not-prose py-2&quot;&gt;
+    &lt;blockquote class=&quot;flex flex-row row gap-2 text-black dark:text-white p-2 outline outline-3 outline-slate-500 dark:outline-slate-600&quot;&gt;
+        
+        &lt;div&gt;
+            &lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;1.5&quot; stroke=&quot;currentColor&quot; class=&quot;w-6 h-6&quot;&gt;
+  &lt;path stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M12 18v-5.25m0 0a6.01 6.01 0 001.5-.189m-1.5.189a6.01 6.01 0 01-1.5-.189m3.75 7.478a12.06 12.06 0 01-4.5 0m3.75 2.383a14.406 14.406 0 01-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 10-7.517 0c.85.493 1.509 1.333 1.509 2.316V18&quot; &#x2F;&gt;
+&lt;&#x2F;svg&gt;
+        &lt;&#x2F;div&gt;
+        &lt;div&gt;
+            
+            &lt;p&gt;&lt;strong&gt;Tip&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+            
+            &lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+
+        &lt;&#x2F;div&gt;
+    &lt;&#x2F;blockquote&gt;
+&lt;&#x2F;div&gt;</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Outdate Alert</title>
+		<published>2022-08-25T00:00:00+00:00</published>
+		<updated>2022-08-25T00:00:00+00:00</updated>
+        <summary>&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+</summary>
+		<link href="https://teadrinkingprogrammer.github.io/tranquil-demo/blog/outdate-alert/" type="text/html"/>
+		<id>https://teadrinkingprogrammer.github.io/tranquil-demo/blog/outdate-alert/</id>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque &lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit.&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
